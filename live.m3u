@@ -42,16 +42,12 @@ CCTV-5 4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/22
 CCTV-6 4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV-8 4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 湖南卫视4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-深圳卫视4k,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 
 🇨🇳 4K超高清,#genre#
 CCTV-4K,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv4k
 CCTV-8K,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv8k
 CCTV-16 4K,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv16-4k
-江苏4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-4KUHD,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+
 🇨🇳 央视频道,#genre#
 CCTV1,http://117.32.84.73:8008/udp/239.109.205.118:8880
 CCTV2,http://117.32.84.73:8008/udp/239.109.205.106:8784
@@ -72,25 +68,11 @@ CCTV14,http://117.32.84.73:8008/udp/239.110.205.20:9826
 CCTV15,http://117.32.84.73:8008/udp/239.109.205.103:8760
 CCTV16,http://117.32.84.73:8008/udp/239.111.205.133:5140
 CCTV17,http://117.32.84.73:8008/udp/239.109.205.88:8640
-电视指南,http://117.32.84.73:8008/udp/239.111.205.76:5140
-兵器科技,http://117.32.84.73:8008/udp/239.111.205.74:5140
 第一剧场,http://117.32.84.73:8008/udp/239.111.205.65:5140
 风云剧场,http://117.32.84.73:8008/udp/239.110.205.87:7928
 风云剧场,http://117.32.84.73:8008/udp/239.111.205.66:5140
-风云音乐,http://117.32.84.73:8008/udp/239.111.205.69:5140
-风云音乐,http://117.32.84.73:8008/udp/239.110.205.90:7916
-风云足球,http://117.32.84.73:8008/udp/239.111.205.68:5140
-高尔夫网球,http://117.32.84.73:8008/udp/239.111.205.73:5140
-高尔夫网球,http://117.32.84.73:8008/udp/239.110.205.94:7900
 怀旧剧场,http://117.32.84.73:8008/udp/239.110.205.88:7924
 怀旧剧场,http://117.32.84.73:8008/udp/239.111.205.67:5140
-女性时尚,http://117.32.84.73:8008/udp/239.110.205.93:7904
-女性时尚,http://117.32.84.73:8008/udp/239.111.205.72:5140
-世界地理,http://117.32.84.73:8008/udp/239.110.205.92:7908
-世界地理,http://117.32.84.73:8008/udp/239.111.205.71:5140
-央视台球,http://117.32.84.73:8008/udp/239.110.205.91:7912
-央视台球,http://117.32.84.73:8008/udp/239.111.205.70:5140
-央视文化精品,http://117.32.84.73:8008/udp/239.111.205.75:5140
 
 CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
 CCTV2,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
@@ -110,18 +92,10 @@ CCTV14,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006673/1.
 CCTV15,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 CCTV16,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3
 CCTV17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
-女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-风云剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-兵器科技,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 怀旧剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-央视台球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 世界地理,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CCTV1,https://tvmvip.com/php/ak.php?id=cctv1
 CCTV1,https://tvmvip.com/php/ak.php?id=cctv1b
@@ -262,44 +236,6 @@ CHC高清电影,http://117.32.84.129:8008/udp/239.109.205.97:8712
 CHC高清电影,http://117.32.84.129:8008/udp/239.112.205.206:5140
 CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 
-🇨🇳 港 澳 台,#genre#
-无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
-无线财经,https://i.125011.xyz/tvb.php?id=2&hq
-翡翠台,http://r.jdshipin.com/n90gt
-J2,http://r.jdshipin.com/Nr5jq
-J2,http://r.jdshipin.com/ndGgS$源2
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$源2
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8$源2
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8$源2
-ELEVEN1,http://116.11.140.52:8181/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
-ELEVEN2,http://116.11.140.52:8181/tsfile/live/1216_1.m3u8?key=txiptv&playlive=1&authid=0
-天映经典,http://116.11.140.52:8181/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥时代,http://116.11.140.52:8181/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
-私人影院,http://116.11.140.52:8181/tsfile/live/1210_1.m3u8?key=txiptv&playlive=1&authid=0
-AXN,http://116.11.140.52:8181/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
-东森新闻,http://116.11.140.52:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
-东森财经新闻,http://116.11.140.52:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片,http://116.11.140.52:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
-东森电影,http://116.11.140.52:8181/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
-东森戏剧,http://116.11.140.52:8181/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
-TVB星河,http://116.11.140.52:8181/tsfile/live/1206_1.m3u8?key=txiptv&playlive=1&authid=0
-澳门莲花,http://116.11.140.52:8181/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=0
-天映经典,http://171.108.239.131:8020/tsfile/live/1009_1.m3u8$贵港酒店
-东森电影,http://171.108.239.131:8020/tsfile/live/1010_1.m3u8$贵港酒店
-龙祥时代,http://171.108.239.131:8020/tsfile/live/1011_1.m3u8$贵港酒店
-私人影院,http://171.108.239.131:8020/tsfile/live/1014_1.m3u8$贵港酒店
-东森洋片,http://171.108.239.131:8020/tsfile/live/1016_1.m3u8$贵港酒店
-东森超视,http://171.108.239.110:8020/tsfile/live/1023_1.m3u8$贵港酒店
-
-
-三立都会,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686&$未知 1080P
-三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3&$未知 1080P
-三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1&$未知 1080P
-KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
-
 🇨🇳 北京地方台,#genre#
 北京新闻,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1276
 北京文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
@@ -393,8 +329,6 @@ ICS外语,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951
 金色学堂,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
 魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 七彩戏剧,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
-游戏风云,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
-
 
 🇨🇳 福建地方台,#genre#
 福建综合,http://36.249.151.144:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
